@@ -1,2 +1,2 @@
 # code
-A place to learn to code for interviews & other things.
+A place to learn to code for interviews.
